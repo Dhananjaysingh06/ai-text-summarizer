@@ -1,6 +1,9 @@
 # 🧠 AI Text Summarizer
 
 An AI-powered text summarization tool using Generative AI and NLP.
+## ▶️ How to Run
+```bash
+streamlit run app.py
 
 ## 🚀 Features
 
